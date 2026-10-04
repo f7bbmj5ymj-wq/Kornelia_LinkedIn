@@ -69,12 +69,12 @@ EXPERIENCE = {
     "de": [
         ("02/2024 – 06/2026", "Head Documentation", "RUAG AG · Emmen LU", [
             "Führung der Dokumentationsorganisation mit bis zu 35 FTE, inkl. Budget-, Ressourcen- und Personalverantwortung",
-            "Steuerung der technischen Dokumentation im regulierten Luftfahrt- und Verteidigungsumfeld",
+            "Steuerung der technischen Dokumentation in einem regulierten Luftfahrtumfeld",
             "Treiber von Change Management, Prozessstandardisierung und Operational Excellence in der Organisation",
         ]),
         ("01/2022 – 01/2024", "Senior Business Development Manager", "RUAG AG · Emmen LU", [
             "Identifikation, Entwicklung und Akquisition neuer Geschäftsmöglichkeiten mit Kunden und Partnern",
-            "Ausarbeitung von Angeboten, Verhandlungen und Aufbau von Kooperationen im Verteidigungs- und Luftfahrtumfeld",
+            "Ausarbeitung von Angeboten, Verhandlungen und Aufbau von Kooperationen mit Kunden und Partnern",
         ]),
         ("01/2021 – 12/2021", "Lead Digital Transformation", "RUAG AG · Emmen LU", [
             "Leitung von Digitalisierungsinitiativen und Begleitung der Organisation durch den Wandel",
@@ -102,12 +102,12 @@ EXPERIENCE = {
     "en": [
         ("02/2024 – 06/2026", "Head Documentation", "RUAG AG · Emmen, Switzerland", [
             "Led the documentation organisation of up to 35 FTE, with budget, resource and people responsibility",
-            "Steered technical documentation in a regulated aerospace and defence environment",
+            "Steered technical documentation in a regulated aviation environment",
             "Drove change management, process standardisation and operational excellence across the organisation",
         ]),
         ("01/2022 – 01/2024", "Senior Business Development Manager", "RUAG AG · Emmen, Switzerland", [
             "Identified, developed and won new business with customers and partners",
-            "Prepared proposals, led negotiations and built partnerships in defence and aviation",
+            "Prepared proposals, led negotiations and built partnerships with customers and partners",
         ]),
         ("01/2021 – 12/2021", "Lead Digital Transformation", "RUAG AG · Emmen, Switzerland", [
             "Led digitalisation initiatives and guided the organisation through the change",
@@ -136,41 +136,43 @@ EXPERIENCE = {
 
 VARIANTS = [
     {
-        "slug": "cv_rheinmetall_senior_pm_air_defence",
+        "slug": "cv_rychiger_director_project_management",
         "lang": "de",
-        "target": "Senior Project Manager Air Defence · Rheinmetall Air Defence AG, Zürich",
-        "headline": "Dipl.-Ing. Luft- und Raumfahrttechnik · Senior Program & Project Manager · Führungskraft (35 FTE)",
+        "target": "Director Project Management · Rychiger AG, Steffisburg",
+        "headline": "Dipl.-Ing. Luft- und Raumfahrttechnik · Program & Project Management · Führungskraft (35 FTE)",
         "profile": (
-            "Luft- und Raumfahrtingenieurin mit rund 20 Jahren Erfahrung bei DLR, ESA, maxon und RUAG. "
-            "Ich habe komplexe technische Projekte über den gesamten Lebenszyklus geführt – von Angebot und "
-            "Anforderungsdefinition über Entwicklung bis zur vertragskonformen Lieferung – und zuletzt eine "
-            "Organisation mit bis zu 35 FTE in der Verteidigungsindustrie geleitet. Verhandlungssicher auf "
-            "Deutsch und Englisch, mit Spanisch und Französisch für internationale Kunden und Industriekooperationen."
+            "Ingenieurin und Führungskraft mit rund 20 Jahren Erfahrung in Projekt- und Programmmanagement "
+            "für technisch anspruchsvolle Produkte – bei DLR, ESA, maxon und RUAG. Bei maxon habe ich sechs "
+            "Jahre lang komplexe internationale Kundenprojekte verantwortet, bei RUAG Geschäftsprozesse "
+            "optimiert, die digitale Transformation geleitet und zuletzt eine Organisation mit bis zu 35 FTE "
+            "geführt. Ich entwickle Projektorganisationen weiter, begleite Teams durch Veränderungen und "
+            "setze KI und Digitalisierung pragmatisch ein."
         ),
         "competencies": [
-            "Gesamtprojektleitung komplexer Systeme", "Anforderungs- & Änderungsmanagement",
-            "Kosten-, Termin- & Risikosteuerung", "Stakeholder-Management bis C-Level",
-            "Business Development & Verhandlung", "Verteidigungs- & Raumfahrtindustrie",
-            "Change Management", "Operational Excellence",
+            "Multiprojekt- & Portfoliomanagement", "Führung & Coaching von Projektleitenden",
+            "Internationale Kundenprojekte", "Kosten-, Termin- & Risikosteuerung",
+            "Projekt- & Prozessstandards", "Reporting an die Geschäftsleitung",
+            "Change Management", "KI & Digitalisierung",
         ],
     },
     {
-        "slug": "cv_ruag_pm_uav_cuav",
+        "slug": "cv_axpo_process_excellence_manager",
         "lang": "de",
-        "target": "Project Manager UAV & cUAV · RUAG AG, Emmen",
-        "headline": "Dipl.-Ing. Luft- und Raumfahrttechnik · Business Development & Projektmanagement · Führungskraft (35 FTE)",
+        "target": "Process Excellence Manager · Axpo Group, Baden",
+        "headline": "Dipl.-Ing. Luft- und Raumfahrttechnik · Process Excellence & Transformation · Führungskraft (35 FTE)",
         "profile": (
-            "Luft- und Raumfahrtingenieurin mit sieben Jahren RUAG-Erfahrung in Emmen – als Senior Business "
-            "Development Manager, Lead Digital Transformation und zuletzt Head Documentation mit bis zu 35 FTE. "
-            "Ich verbinde technologische Tiefe (DLR, ESA, ETH/additive Fertigung) mit Akquisition, Verhandlung "
-            "und Projektumsetzung in der Matrix. Mein Netzwerk in der Schweizer Raumfahrt- und "
-            "Verteidigungslandschaft möchte ich für den Ausbau des Drohnengeschäfts von RUAG einsetzen."
+            "Ingenieurin mit Schwerpunkt Prozess- und Organisationsentwicklung: Bei RUAG habe ich als "
+            "Business Process Manager End-to-End-Prozesse analysiert und optimiert, als Lead Digital "
+            "Transformation Digitalisierungsinitiativen geleitet und als Head Documentation eine Organisation "
+            "mit bis zu 35 FTE durch Veränderungen geführt. Ich moderiere Workshops und Management-Dialoge, "
+            "entwickle Operating Models und Governance weiter und verbinde strategisches Denken mit "
+            "pragmatischer Umsetzung."
         ),
         "competencies": [
-            "Business Development & Akquisition", "Projektmanagement in der Matrix",
-            "Verhandlungen mit Kunden & Partnern", "Luft- und Raumfahrttechnik",
-            "Innovation & Startup-Kooperationen", "Netzwerk Raumfahrt & Verteidigung",
-            "Teamaufbau & Führung", "Change Management",
+            "Process Excellence & End-to-End-Prozesse", "Operating Models & Governance",
+            "Organisationsentwicklung", "Change Management",
+            "Digitale Transformation", "Workshop- & Management-Moderation",
+            "Operational Excellence", "Stakeholder-Management",
         ],
     },
     {
